@@ -1,5 +1,7 @@
 import './App.css';
 
+import { useEffect } from 'react';
+
 function App() {
   return (
     <section id='hero'>
@@ -11,6 +13,10 @@ function App() {
           reiciendis distinctio nostrum et voluptatem adipisci quod alias magni incidunt, blanditiis quas, numquam
           repudiandae iusto facilis.
         </p>
+      </div>
+
+      <div>
+        <p>ini hal baru</p>
       </div>
     </section>
   );
