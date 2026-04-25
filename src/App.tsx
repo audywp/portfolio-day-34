@@ -1,7 +1,5 @@
 import './App.css';
 
-import { useEffect } from 'react';
-
 function App() {
   return (
     <section id='hero'>
