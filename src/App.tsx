@@ -16,6 +16,10 @@ function App() {
       <div>
         <p>ini hal baru</p>
       </div>
+
+      <div>
+        <p>ini hal baru 2</p>
+      </div>
     </section>
   );
 }
